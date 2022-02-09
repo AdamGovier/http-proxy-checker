@@ -6,15 +6,7 @@ This proxy checker is capable of checking large qaunities of proxies, and remove
 Created by  **Adam Govier**
 
 PS This README is heavily inspired by https://github.com/NeutronX-dev/nex-scraper
-## Get Started
-To install **`http-proxy-checker`** paste the following command into your terminal.
-```
-npm install http-proxy-checker
-```
-Once **`http-proxy-checker`** is installed, you can import it using:
-```js
-const Checker = require('http-proxy-checker');
-```
+
 ### Quickstart
 ```js
 const checker = new Checker();
